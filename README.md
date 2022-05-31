@@ -9,7 +9,6 @@ Our codes are evaluated under python 3.7
 1. run Data_Generator.py to generate data and targets.
 2. run SFS_code.py to select the best features. 
 3. run Run_iterate.py to train, validate, and test CNF-NET. 
-4. 
 
 
 
