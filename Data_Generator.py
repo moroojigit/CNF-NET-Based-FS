@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May 20 10:38:02 2022
-
-@author: Reza
-"""
-
 import numpy as np 
 import os 
 import itertools
