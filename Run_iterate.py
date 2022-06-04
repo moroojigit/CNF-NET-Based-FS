@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 11 12:29:05 2022
-
-@author: Reza
-"""
 import time
 import argparse
 import numpy as np
